@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color:aquamarine;
+}
+
+#img {
+    width: 800px;
+}
+
+#heading {
+    font-size: 100px;
+}
+
+.input {
+    font-size: larger;
+}
+
+.player {
+    font-size: larger;
+}
+
+#login {
+    width: 30%;
+    font-size: medium;
+}
